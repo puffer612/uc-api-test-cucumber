@@ -6,4 +6,4 @@ Feature: 测试一下demo能不能运行
 
     When 调用这个接口
 
-    Then 断言结果 4
+    Then 断言结果 6
